@@ -4,13 +4,6 @@ Hey — welcome to my devlog. This is where I write about what I'm actually buil
 
 I'm a game developer and software developer working in Godot, Unity, and expanding into full-stack development through freeCodeCamp. Former teacher. Dad. Bills fan.
 
----
-
-## Latest Posts
-
-| Date | Title | Tags |
-|------|-------|------|
-| Add your posts here | | |
 
 ---
 
